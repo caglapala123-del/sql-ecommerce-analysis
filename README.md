@@ -27,7 +27,7 @@ The following analyses are included:
 
 ## File Structure
 - `schema.sql` → Table definitions
-- `sample_queries.sql` → Basic SQL queries
+-  exploratory_queries.sql → Exploratory and validation queries
 - `analysis.sql` → Analytical queries
 - `README.md` → Project documentation
 
