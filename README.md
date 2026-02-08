@@ -31,7 +31,7 @@ The following analyses are included:
 - exploratory_queries.sql → Exploratory and validation queries
 - analysis.sql → Analytical business queries
 - README.md → Project documentation
-
+- via seed_data.sql → Sample Data
 ## Technologies
 - SQL
 
